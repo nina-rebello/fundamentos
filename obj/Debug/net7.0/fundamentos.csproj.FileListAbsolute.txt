@@ -1,0 +1,15 @@
+/Users/ninarebello/Documents/Bootcamp_DIO/fundamentos/bin/Debug/net7.0/fundamentos
+/Users/ninarebello/Documents/Bootcamp_DIO/fundamentos/bin/Debug/net7.0/fundamentos.deps.json
+/Users/ninarebello/Documents/Bootcamp_DIO/fundamentos/bin/Debug/net7.0/fundamentos.runtimeconfig.json
+/Users/ninarebello/Documents/Bootcamp_DIO/fundamentos/bin/Debug/net7.0/fundamentos.dll
+/Users/ninarebello/Documents/Bootcamp_DIO/fundamentos/bin/Debug/net7.0/fundamentos.pdb
+/Users/ninarebello/Documents/Bootcamp_DIO/fundamentos/obj/Debug/net7.0/fundamentos.csproj.AssemblyReference.cache
+/Users/ninarebello/Documents/Bootcamp_DIO/fundamentos/obj/Debug/net7.0/fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ninarebello/Documents/Bootcamp_DIO/fundamentos/obj/Debug/net7.0/fundamentos.AssemblyInfoInputs.cache
+/Users/ninarebello/Documents/Bootcamp_DIO/fundamentos/obj/Debug/net7.0/fundamentos.AssemblyInfo.cs
+/Users/ninarebello/Documents/Bootcamp_DIO/fundamentos/obj/Debug/net7.0/fundamentos.csproj.CoreCompileInputs.cache
+/Users/ninarebello/Documents/Bootcamp_DIO/fundamentos/obj/Debug/net7.0/fundamentos.dll
+/Users/ninarebello/Documents/Bootcamp_DIO/fundamentos/obj/Debug/net7.0/refint/fundamentos.dll
+/Users/ninarebello/Documents/Bootcamp_DIO/fundamentos/obj/Debug/net7.0/fundamentos.pdb
+/Users/ninarebello/Documents/Bootcamp_DIO/fundamentos/obj/Debug/net7.0/fundamentos.genruntimeconfig.cache
+/Users/ninarebello/Documents/Bootcamp_DIO/fundamentos/obj/Debug/net7.0/ref/fundamentos.dll
